@@ -1,15 +1,4 @@
-# DataScienceRoadMap
-# 📊 Data Science Interview Learning Roadmap
-
-A **job-oriented, practical roadmap** designed to help you prepare for **Data Science job interviews** — from **foundations → advanced topics → interview prep**.
-
-This repository is ideal for:
-- Freshers
-- Entry-level Data Scientists
-- Students preparing for real-world DS interviews
-
----
-
+# 📊 Data Science Learning Roadmap
 ## 🧭 Roadmap Overview
 
 <p align="center">
