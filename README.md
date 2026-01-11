@@ -44,7 +44,7 @@ Focus on **clean, efficient, and readable code**, not just syntax.
 
 ---
 
-## 2️⃣ Statistics & Probability (Most Asked in Interviews)
+## 2️⃣ Statistics & Probability
 
 <p align="center">
   <img src="https://datasciencedojo.com/wp-content/uploads/Top-10-Statistical-Concepts-2.png" width="90%">
